@@ -1,0 +1,63 @@
+missing module named 'multiprocessing.forking' - imported by C:\Users\76549\Anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named resource - imported by posix, E:\PythonWork\dict2\index.py
+missing module named posix - imported by os, E:\PythonWork\dict2\index.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, E:\PythonWork\dict2\index.py
+missing module named clr - imported by pyreadline.clipboard.ironpython_clipboard, pyreadline.console.ironpython_console, E:\PythonWork\dict2\index.py
+missing module named IronPythonConsole - imported by pyreadline.console.ironpython_console, E:\PythonWork\dict2\index.py
+missing module named StringIO - imported by pyreadline.py3k_compat, requests.packages.urllib3.packages.six, six, requests.compat, E:\PythonWork\dict2\index.py
+missing module named org - imported by pickle, E:\PythonWork\dict2\index.py
+missing module named System - imported by pyreadline.clipboard.ironpython_clipboard, pyreadline.keysyms.ironpython_keysyms, pyreadline.console.ironpython_console, pyreadline.rlmain, E:\PythonWork\dict2\index.py
+missing module named sets - imported by pyreadline.keysyms.common, E:\PythonWork\dict2\index.py
+missing module named startup - imported by pyreadline.keysyms.common, pyreadline.keysyms.keysyms, E:\PythonWork\dict2\index.py
+missing module named console - imported by pyreadline.console.ansi, E:\PythonWork\dict2\index.py
+excluded module named _frozen_importlib - imported by importlib, E:\PythonWork\dict2\index.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\PythonWork\dict2\index.py
+missing module named 'java.lang' - imported by platform, E:\PythonWork\dict2\index.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\PythonWork\dict2\index.py
+missing module named termios - imported by tty, getpass, E:\PythonWork\dict2\index.py
+missing module named urllib.proxy_bypass - imported by urllib, requests.compat
+missing module named urllib.getproxies - imported by urllib, requests.compat
+missing module named urllib.unquote_plus - imported by urllib, requests.compat
+missing module named urllib.quote_plus - imported by urllib, requests.compat
+missing module named urllib.unquote - imported by urllib, requests.compat
+missing module named urllib.quote - imported by urllib, requests.compat
+missing module named urllib.urlencode - imported by urllib, requests.packages.urllib3.request, requests.compat
+missing module named grp - imported by tarfile, shutil, distutils.archive_util, E:\PythonWork\dict2\index.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, distutils.util, distutils.archive_util, getpass, netrc, E:\PythonWork\dict2\index.py
+missing module named ce - imported by os, E:\PythonWork\dict2\index.py
+missing module named _dummy_threading - imported by dummy_threading, E:\PythonWork\dict2\index.py
+missing module named 'org.python' - imported by copy, E:\PythonWork\dict2\index.py, xml.sax
+missing module named backports - imported by requests.packages.urllib3.packages.ssl_match_hostname
+missing module named httplib - imported by requests.packages.urllib3.connection
+missing module named _abcoll - imported by requests.packages.urllib3.packages.ordered_dict
+missing module named dummy_thread - imported by requests.packages.urllib3.packages.ordered_dict, cffi.lock
+missing module named thread - imported by requests.packages.urllib3.packages.ordered_dict, cffi.lock, cffi.cparser, OpenSSL.crypto
+missing module named urlparse - imported by requests.packages.urllib3.poolmanager, requests.compat
+missing module named Queue - imported by requests.packages.urllib3.connectionpool
+missing module named Cookie - imported by requests.compat
+missing module named cookielib - imported by requests.compat
+missing module named urllib2 - imported by requests.compat
+missing module named simplejson - imported by requests.compat
+missing module named certifi - imported by requests.certs
+missing module named 'pyasn1.type' - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named pyasn1 - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named cStringIO - imported by cffi.ffiplatform, cPickle
+missing module named copy_reg - imported by cStringIO, cPickle
+missing module named md5 - imported by pycparser.ply.yacc
+missing module named cPickle - imported by pycparser.ply.yacc
+missing module named lex - imported by pycparser.ply.yacc
+missing module named cffi._pycparser - imported by cffi, cffi.cparser
+missing module named 'ndg.httpsclient' - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named ndg - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named iconv_codec - imported by bs4.dammit
+missing module named chardet - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named 'html5lib.constants' - imported by bs4.builder._html5lib
+missing module named html5lib - imported by bs4.builder._html5lib
